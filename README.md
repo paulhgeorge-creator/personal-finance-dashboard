@@ -1,6 +1,6 @@
 # Investment Risk Dashboard
 
-[![Lint](https://github.com/paulhgeorge-creator/personal-finance-dashboard/actions/workflows/lint.yml/badge.svg)](https://github.com/paulhgeorge-creator/personal-finance-dashboard/actions/workflows/lint.yml)
+
 
 Comparing savings, bonds, index funds, and crypto is hard when each is explained in a different way. This dashboard puts the risk, volatility, and projected return of all four asset classes side by side so a beginner can see the trade-offs at a glance.
 
